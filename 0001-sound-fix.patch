@@ -2,7 +2,7 @@ Original author:
 Hongyan Xia <Hongyan.Xia2@arm.com>
 
 Got it from:
-https://github.com/Jerryxia32/envy_x360_fix/blob/main/0001-Cirrus-hack.patch
+https://raw.githubusercontent.com/Jerryxia32/envy_x360_fix/d08b7efb1beed4d835745a14b72e9d7183113750/0001-Cirrus-hack.patch
 
 diff --git a/sound/pci/hda/cs35l41_hda.c b/sound/pci/hda/cs35l41_hda.c
 --- a/sound/pci/hda/cs35l41_hda.c
